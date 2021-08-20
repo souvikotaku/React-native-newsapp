@@ -3,3 +3,5 @@ Its a news search mobile app i made using Newsapi API with react native. Just en
 
 # This is the link of the APK file, kindly download it from here and install it to your android device
 https://drive.google.com/file/d/10o1H0UKxHCV5iCVltuqO8sinN4Jc2u3C/view?usp=sharing
+
+# note: When you start the app, you will see the logo of Kwaii Owari on the splash screen, this is my company logo.
